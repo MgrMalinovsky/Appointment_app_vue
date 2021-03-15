@@ -1,6 +1,6 @@
 # appointment-app
 
-> A Vue.js project
+A Vue.js project for Web Development module
 
 ## Build Setup
 
