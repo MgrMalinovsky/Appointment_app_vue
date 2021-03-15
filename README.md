@@ -16,6 +16,15 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+
+To open website run dist/index.html
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Desciption
+
+Website for appointment planning. You can add important data to the scheduled meeting, choose start and end time and then add appointment to the appointments list.
+With more events, you can sort them by title, time or fullname of person, you have appointment with.
+
+## Stack
+
+JS, Vue.js CLI, Bootstrap
